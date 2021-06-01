@@ -1,0 +1,48 @@
+.container{display:flex;
+margin-left: 80px;
+}
+#name{margin-left: 65px;}
+#right{margin-left: 110px;
+padding-left: 60px;}
+#nav{display: flex;
+margin-left:80px;
+margin-bottom: 40px;}
+#nav img{height: 70px;
+width: 70px;
+}
+#nav ul{list-style-type: none;
+margin-left: 450px;
+font-family: serif;}
+#nav ul li{float: left;
+ padding-right: 30px;}
+ #left u{color: darkorange;}
+ #study{margin-bottom: 60px;}
+ #study h3{color:rgba(48, 29, 10, 0.479)}
+ #right #first{font-family: sans-serif;
+margin-bottom: 40px;}
+#right #first p{font-size: 22px;
+color:deeppink}
+#right #second{font-family: serif;
+font-size: 22px;}
+#right #second p{color:rgb(48, 29, 10, 0.479)}
+#ms{color: rgba(252, 10, 179, 0.918);}
+#right #third b{color:deepskyblue;
+    margin-left: 25px;
+font-family: serif;
+font-size: 15px;
+padding-left: 15px;}
+#right #third pre{font-family: sans-serif;}
+#bot{margin-left: 80px;}
+#tp,#bt{display: flex;
+font-family:sans-serif;}
+#tp h4{padding: 4px 36px;
+background-color: dimgrey;
+margin-right:69px;
+margin-bottom: 25px;
+border-radius: 5spx;
+color: white;}
+#bt h4{padding: 4px 70px;
+margin-right: 39px;
+border:1px solid blueviolet;
+border-radius: 5px;
+}

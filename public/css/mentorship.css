@@ -1,0 +1,2742 @@
+.mentorship {
+  background-color: var(--zircon-2);
+  height: 5179px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+.mentorship .about-us {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+}
+.mentorship .accomplishments {
+  left: 232px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 620px;
+}
+.mentorship .codicontwitter {
+  height: 20px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.mentorship .contact {
+  background-color: var(--white2);
+  border-radius: 5px;
+  height: 25px;
+  left: 1028px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+.mentorship .contact-us {
+  left: 12px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.mentorship .csp {
+  left: 83px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -4px;
+}
+.mentorship .donate-now {
+  left: 77px;
+  letter-spacing: 2.8px;
+  line-height: 27.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+.mentorship .donors {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 148px;
+}
+.mentorship .donors-1 {
+  left: 453px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.mentorship .ellipse-15 {
+  height: 1px;
+  left: 1185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.mentorship .ellipse-4 {
+  height: 1px;
+  left: 34px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+.mentorship .ellipse-4-1 {
+  height: 52px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+.mentorship .ellipse-5 {
+  height: 58px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+.mentorship .fa-soliddonate {
+  height: 22px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 22px;
+}
+.mentorship .fa-soliddonate-1 {
+  height: 22px;
+  left: 45px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 22px;
+}
+.mentorship .footer {
+  height: 233px;
+  left: 76px;
+  position: relative;
+  top: 298px;
+  width: 1281px;
+}
+.mentorship .footer-1 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1445px;
+}
+.mentorship .frame-20 {
+  height: 25px;
+  left: 444px;
+  position: absolute;
+  top: 34px;
+  width: 527px;
+}
+.mentorship .frame-37 {
+  height: 168px;
+  left: 555px;
+  position: absolute;
+  top: 65px;
+  width: 144px;
+}
+.mentorship .frame-4 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 53px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 429px;
+  width: 219px;
+}
+.mentorship .frame-5 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 53px;
+  left: 609px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 468px;
+  width: 219px;
+}
+.mentorship .frame-5-1 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 53px;
+  left: 584px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 386px;
+  width: 270px;
+}
+.mentorship .frame-79 {
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 998px;
+}
+.mentorship .group {
+  height: 8px;
+  left: 17px;
+  position: absolute;
+  top: 1px;
+  width: 13px;
+}
+.mentorship .group-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-3@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.mentorship .group-138 {
+  height: 232px;
+  left: 49px;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+.mentorship .group-2 {
+  height: 33px;
+  left: 19px;
+  position: absolute;
+  top: 31px;
+  width: 46px;
+}
+.mentorship .group-3 {
+  height: 33px;
+  left: 34px;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+.mentorship .group-370 {
+  height: 331px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 455px;
+}
+.mentorship .group-372 {
+  height: 346px;
+  left: 723px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+.mentorship .group-378 {
+  height: 370px;
+  left: 358px;
+  position: absolute;
+  top: 4px;
+  width: 494px;
+}
+.mentorship .group-380 {
+  height: 250px;
+  left: 0;
+  position: absolute;
+  top: 114px;
+  width: 998px;
+}
+.mentorship .group-382 {
+  height: 1929px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1449px;
+}
+.mentorship .group-383 {
+  height: 366px;
+  left: 87px;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+.mentorship .group-385 {
+  height: 364px;
+  left: 87px;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+.mentorship .group-399 {
+  height: 397px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 473px;
+}
+.mentorship .group-4 {
+  height: 4px;
+  left: 25px;
+  position: absolute;
+  top: 34px;
+  width: 17px;
+}
+.mentorship .group-400 {
+  height: 397px;
+  left: 328px;
+  position: absolute;
+  top: 0;
+  width: 474px;
+}
+.mentorship .group-401 {
+  height: 397px;
+  left: 636px;
+  position: absolute;
+  top: 0;
+  width: 517px;
+}
+.mentorship .group-402 {
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 133px;
+  width: 1032px;
+}
+.mentorship .group-408 {
+  height: 506px;
+  left: 204px;
+  position: absolute;
+  top: 620px;
+  width: 1036px;
+}
+.mentorship .group-409 {
+  height: 232px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 239px;
+}
+.mentorship .group-469 {
+  height: 221px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 275px;
+}
+.mentorship .group-470 {
+  height: 222px;
+  left: 356px;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+.mentorship .group-471 {
+  height: 220px;
+  left: 796px;
+  position: absolute;
+  top: 0;
+  width: 251px;
+}
+.mentorship .group-472 {
+  height: 222px;
+  left: 0;
+  position: absolute;
+  top: 151px;
+  width: 1043px;
+}
+.mentorship .group-474 {
+  height: 373px;
+  left: 210px;
+  position: absolute;
+  top: 1804px;
+  width: 1045px;
+}
+.mentorship .group-489 {
+  height: 20px;
+  left: 889px;
+  position: absolute;
+  top: 511px;
+  width: 170px;
+}
+.mentorship .group-490 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 1241px;
+  width: 1445px;
+}
+.mentorship .group-493 {
+  height: 30px;
+  left: 1146px;
+  position: absolute;
+  top: 212px;
+  transform: rotate(179.37deg);
+  width: 21px;
+}
+.mentorship .group-495 {
+  height: 30px;
+  left: 1145px;
+  position: absolute;
+  top: 215px;
+  transform: rotate(-179.52deg);
+  width: 21px;
+}
+.mentorship .group-497 {
+  height: 366px;
+  left: 135px;
+  position: absolute;
+  top: 2297px;
+  width: 1167px;
+}
+.mentorship .group-499 {
+  height: 364px;
+  left: 135px;
+  position: absolute;
+  top: 2763px;
+  width: 1168px;
+}
+.mentorship .group-551 {
+  height: 518px;
+  left: 206px;
+  position: absolute;
+  top: 1180px;
+  width: 1604px;
+}
+.mentorship .header {
+  height: 82px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+.mentorship .header-1 {
+  height: 82px;
+  left: 90px;
+  position: absolute;
+  top: 1402px;
+  width: 1224px;
+}
+.mentorship .hero {
+  height: 2091px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1658px;
+}
+.mentorship .hero-section-content {
+  height: 688px;
+  left: 71px;
+  position: absolute;
+  top: 1311px;
+  width: 1582px;
+}
+.mentorship .holistic-mentors {
+  left: 43px;
+  letter-spacing: 3.36px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 167px;
+  white-space: nowrap;
+  width: 266px;
+}
+.mentorship .image-31 {
+  height: 1px;
+  left: 895px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.mentorship .image-32 {
+  height: 1px;
+  left: 953px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7798px;
+  width: 1px;
+}
+.mentorship .image-33 {
+  height: 1px;
+  left: 1069px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.mentorship .image-34 {
+  height: 1px;
+  left: 1127px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.mentorship .image-35 {
+  height: 1px;
+  left: 1011px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.mentorship .image-7 {
+  height: 532px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 630px;
+}
+.mentorship .join-now {
+  left: 72px;
+  letter-spacing: 2.8px;
+  line-height: 27.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+.mentorship .join-now-1 {
+  left: 70px;
+  letter-spacing: 2.8px;
+  line-height: 27.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+.mentorship .lachalkboard-teacher {
+  height: 26px;
+  left: 36px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 26px;
+}
+.mentorship .login {
+  left: 16px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.mentorship .login-1 {
+  background-color: var(--white2);
+  border-radius: 5px;
+  height: 25px;
+  left: 1175px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 76px;
+}
+.mentorship .mentorship-1 {
+  left: 282px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.mentorship .mentorship-2 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 99px;
+}
+.mentorship .number {
+  left: 0;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 172px;
+  white-space: nowrap;
+  width: 116px;
+}
+.mentorship .number-1 {
+  left: 107px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 231px;
+  white-space: nowrap;
+  width: 82px;
+}
+.mentorship .number-2 {
+  left: 104px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 173px;
+  white-space: nowrap;
+  width: 107px;
+}
+.mentorship .our-mentors {
+  left: 214px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 609px;
+}
+.mentorship .overlap-group {
+  height: 1929px;
+  left: -1px;
+  position: absolute;
+  top: 3257px;
+  width: 1449px;
+}
+.mentorship .overlap-group1 {
+  height: 1698px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1810px;
+}
+.mentorship .overlap-group2 {
+  height: 2229px;
+  left: -10px;
+  position: absolute;
+  top: -1341px;
+  width: 1658px;
+}
+.mentorship .overlap-group3 {
+  height: 688px;
+  position: relative;
+}
+.mentorship .overlap-group3-1 {
+  height: 1999px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 1653px;
+}
+.mentorship .overlap-group3-2 {
+  height: 370px;
+  left: 0;
+  position: absolute;
+  top: 136px;
+  width: 1032px;
+}
+.mentorship .overlap-group3-3 {
+  background-color: #0088f0cc;
+  border-radius: 39.26636505126953px/35.95628356933594px;
+  height: 72px;
+  left: 115px;
+  position: absolute;
+  top: 0;
+  width: 79px;
+}
+.mentorship .overlap-group3-4 {
+  height: 374px;
+  left: -52px;
+  position: relative;
+  top: -44px;
+  width: 1113px;
+}
+.mentorship .overlap-group3-5 {
+  height: 532px;
+  left: -60px;
+  position: relative;
+  top: -3px;
+  width: 1662px;
+}
+.mentorship .overlap-group4 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/footer-background-1@1x.svg);
+  background-size: 100% 100%;
+  height: 681px;
+  left: 2px;
+  position: relative;
+  top: 4px;
+  width: 1440px;
+}
+.mentorship .overlap-group4-1 {
+  height: 397px;
+  left: -44px;
+  position: relative;
+  top: -75px;
+  width: 1153px;
+}
+.mentorship .overlap-group4-2 {
+  height: 10px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+.mentorship .overlap-group5 {
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1000px;
+}
+.mentorship .overlap-group5-1 {
+  height: 10px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 15px;
+}
+.mentorship .overlap-group6 {
+  height: 34px;
+  position: relative;
+  top: -1px;
+  width: 14px;
+}
+.mentorship .overlap-group7 {
+  height: 280px;
+  position: relative;
+  top: -60px;
+  width: 288px;
+}
+.mentorship .overlap-group8 {
+  height: 232px;
+  left: -36px;
+  position: absolute;
+  top: -60px;
+  width: 309px;
+}
+.mentorship .place {
+  left: 6px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.mentorship .place-1 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.mentorship .project-mentors {
+  left: 0;
+  letter-spacing: 3.36px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 178px;
+  white-space: nowrap;
+  width: 249px;
+}
+.mentorship .quick-links {
+  left: 555px;
+  letter-spacing: 4.77px;
+  line-height: 29.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 187px;
+}
+.mentorship .rectangle-392 {
+  height: 774px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1330px;
+  width: 1440px;
+}
+.mentorship .rectangle-4 {
+  height: 234px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+.mentorship .rectangle-5 {
+  height: 246px;
+  left: 653px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 346px;
+}
+.mentorship .rectangle-6 {
+  height: 241px;
+  left: 364px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 250px;
+}
+.mentorship .roles-of-a-mentor {
+  left: 609px;
+  letter-spacing: 3.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  white-space: nowrap;
+  width: 498px;
+}
+.mentorship .skill-based-mentors {
+  left: 0;
+  letter-spacing: 3.36px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 114px;
+  white-space: nowrap;
+  width: 324px;
+}
+.mentorship .span0 {
+  letter-spacing: 0;
+}
+.mentorship .span1 {
+  letter-spacing: 0.86px;
+}
+.mentorship .span1-1 {
+  line-height: 33.3px;
+}
+.mentorship .span2 {
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+.mentorship .span2-1 {
+  line-height: 26.7px;
+}
+.mentorship .students-activities {
+  left: 196px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 600px;
+}
+.mentorship .subtract {
+  height: 669px;
+  left: 994px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 10px;
+  width: 480px;
+}
+.mentorship .support-us {
+  left: 338px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 764px;
+}
+.mentorship .text-1 {
+  left: 80px;
+  letter-spacing: 3.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 891px;
+  width: 1287px;
+}
+.mentorship .text-10 {
+  left: 223px;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 994px;
+}
+.mentorship .text-11 {
+  left: 584px;
+  letter-spacing: 1.05px;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82px;
+  width: 1078px;
+}
+.mentorship .text-2 {
+  left: 0;
+  letter-spacing: 3.36px;
+  line-height: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 351px;
+  white-space: nowrap;
+  width: 523px;
+}
+.mentorship .text-3 {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 209px;
+  white-space: nowrap;
+  width: 896px;
+}
+.mentorship .text-4 {
+  left: 102px;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 968px;
+  width: 1238px;
+}
+.mentorship .text-5 {
+  left: 13px;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1015px;
+}
+.mentorship .text-6 {
+  left: 255px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 534px;
+}
+.mentorship .text-7 {
+  left: 810px;
+  letter-spacing: 0;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 465px;
+}
+.mentorship .text-8 {
+  left: 0;
+  line-height: 29.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 101px;
+  width: 481px;
+}
+.mentorship .text-9 {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 39.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 317px;
+}
+.mentorship .vector {
+  height: 23px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+.mentorship .vector-1 {
+  height: 1px;
+  left: 7px;
+  position: absolute;
+  top: 5px;
+  width: 1px;
+}
+.mentorship .vector-10 {
+  height: 15px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 41px;
+}
+.mentorship .vector-11 {
+  height: 20px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 14px;
+  width: 31px;
+}
+.mentorship .vector-12 {
+  height: 10px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 14px;
+}
+.mentorship .vector-13 {
+  height: 8px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 47px;
+  width: 9px;
+}
+.mentorship .vector-14 {
+  height: 50px;
+  left: 694px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 85px;
+  width: 50px;
+}
+.mentorship .vector-15 {
+  height: 4px;
+  left: 28px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 42px;
+  width: 11px;
+}
+.mentorship .vector-16 {
+  height: 5px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.mentorship .vector-17 {
+  height: 17px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 11px;
+}
+.mentorship .vector-18 {
+  height: 3px;
+  left: 31px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 39px;
+  width: 6px;
+}
+.mentorship .vector-19 {
+  height: 35px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 58px;
+}
+.mentorship .vector-2 {
+  height: 5px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.mentorship .vector-20 {
+  height: 10px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+.mentorship .vector-21 {
+  height: 5px;
+  left: 13px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.mentorship .vector-22 {
+  height: 5px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.mentorship .vector-23 {
+  height: 17px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 22px;
+}
+.mentorship .vector-24 {
+  height: 2px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 50px;
+  width: 11px;
+}
+.mentorship .vector-25 {
+  height: 31px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  transform: rotate(179.52deg);
+  width: 22px;
+}
+.mentorship .vector-26 {
+  height: 9px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 25px;
+  width: 11px;
+}
+.mentorship .vector-27 {
+  height: 29px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 29px;
+  width: 39px;
+}
+.mentorship .vector-28 {
+  height: 17px;
+  left: 23px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+  width: 11px;
+}
+.mentorship .vector-29 {
+  height: 33px;
+  left: 14px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 39px;
+}
+.mentorship .vector-3 {
+  height: 29px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 8px;
+}
+.mentorship .vector-30 {
+  height: 5px;
+  left: -1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+.mentorship .vector-31 {
+  height: 34px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 16px;
+  width: 29px;
+}
+.mentorship .vector-32 {
+  height: 3px;
+  left: 12px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 6px;
+}
+.mentorship .vector-33 {
+  height: 13px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 53px;
+  width: 7px;
+}
+.mentorship .vector-34 {
+  height: 5px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+.mentorship .vector-35 {
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.mentorship .vector-36 {
+  height: 31px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 231px;
+  width: 22px;
+}
+.mentorship .vector-37 {
+  height: 23px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+.mentorship .vector-38 {
+  height: 20px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+.mentorship .vector-4 {
+  height: 15px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+.mentorship .vector-5 {
+  height: 37px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 11px;
+  width: 60px;
+}
+.mentorship .vector-6 {
+  height: 31px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  transform: rotate(-179.37deg);
+  width: 22px;
+}
+.mentorship .vector-7 {
+  height: 20px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.mentorship .vector-8 {
+  height: 31px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 211px;
+  width: 22px;
+}
+.mentorship .vector-9 {
+  height: 8px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 26px;
+  width: 7px;
+}
+.mentorship .view-more {
+  left: 440px;
+  letter-spacing: 1.89px;
+  line-height: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  text-decoration: underline;
+  top: 271px;
+  white-space: nowrap;
+  width: 560px;
+}
+.mentorship .who-we-are {
+  left: 113px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.mentorship .x5236-2 {
+  height: 399px;
+  left: 636px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 1810px;
+  width: 645px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700,900|Merriweather:400,300,700,900|Poppins:400");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+:root {
+  --black-2: rgba(0, 0, 0, 0.6);
+  --black: rgba(0, 0, 0, 0.698);
+  --black: rgba(0, 0, 0, 0.871);
+  --black-4: rgba(0, 0, 0, 1);
+  --azure-radiance-2: rgba(0, 136, 240, 0.102);
+  --azure-radiance-2: rgba(0, 136, 240, 0.502);
+  --azure-radiance: rgba(0, 136, 240, 1);
+  --midnight-moss: rgba(5, 5, 5, 1);
+  --tory-blue: rgba(14, 73, 161, 1);
+  --dodger-blue: rgba(22, 146, 241, 1);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.2);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.502);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.698);
+  --blue-zodiac: rgba(23, 38, 85, 1);
+  --blue-zodiac-2: rgba(23, 39, 85, 0.8);
+  --blue-zodiac-4: rgba(23, 39, 85, 0.871);
+  --biscay: rgba(26, 47, 109, 1);
+  --fuscous-gray: rgba(85, 85, 85, 1);
+  --oslo-gray: rgba(127, 140, 141, 1);
+  --nepal: rgba(143, 155, 191, 1);
+  --mist-gray: rgba(196, 196, 196, 1);
+  --celeste: rgba(204, 204, 204, 1);
+  --mischka: rgba(209, 212, 221, 1);
+  --pomegranate: rgba(238, 69, 23, 1);
+  --cerise-3: rgba(239, 42, 130, 0.298);
+  --cerise-2: rgba(239, 42, 130, 0.8);
+  --cerise: rgba(239, 42, 130, 1);
+  --zircon: rgba(248, 249, 255, 0.8);
+  --zircon-2: rgba(248, 249, 255, 1);
+  --alabaster: rgba(250, 250, 250, 0.502);
+  --white-3: rgba(255, 255, 255, 0.502);
+  --white-2: rgba(255, 255, 255, 0.8);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-xxxxxxs: 10px;
+  --font-size-xxxxs: 14px;
+  --font-size-xs: 18px;
+  --font-size-m: 12px;
+  --font-size-m: 21px;
+  --font-size-l: 15px;
+  --font-size-l: 24px;
+  --font-size-xl: 16px;
+  --font-size-xl: 25px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 20px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxl: 72px;
+  --font-size-xxxxxl: 48px;
+  --font-size-xxxxxxl: 50px;
+  --font-size-xxxxxxxl: 60px;
+
+  --font-family-abeezee: "ABeeZee";
+  --font-family-abeezee-regular: "ABeeZee-Regular";
+  --font-family-agency_fb-regular: "Agency FB-Regular";
+  --font-family-biryani: "Biryani";
+  --font-family-biryani-bold: "Biryani-Bold";
+  --font-family-biryani-regular: "Biryani-Regular";
+  --font-family-inter: "Inter";
+  --font-family-inter-medium: "Inter-Medium";
+  --font-family-lato: "Lato";
+  --font-family-lato-black: "Lato-Black";
+  --font-family-lato-bold: "Lato-Bold";
+  --font-family-lato-regular: "Lato-Regular";
+  --font-family-material_icons-regular: "Material Icons-Regular";
+  --font-family-merriweather: "Merriweather";
+  --font-family-merriweather-black: "Merriweather-Black";
+  --font-family-merriweather-bold: "Merriweather-Bold";
+  --font-family-merriweather-light: "Merriweather-Light";
+  --font-family-merriweather-regular: "Merriweather-Regular";
+  --font-family-poppins: "Poppins";
+  --font-family-poppins-bold: "Poppins-Bold";
+  --font-family-poppins-medium: "Poppins-Medium";
+  --font-family-poppins-regular: "Poppins-Regular";
+  --font-family-roboto: "Roboto";
+  --font-family-roboto-medium: "Roboto-Medium";
+  --font-family-roboto-regular: "Roboto-Regular";
+}
+.merriweather-normal-white-18px {
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-white-24px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-azure-radiance-21px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-14px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-24px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.poppins-regular-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-light-tory-blue-16px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-white-18px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-18px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-white-24px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-light-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-light);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.merriweather-black-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-18px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.abeezee-regular-normal-azure-radiance-20px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-zircon-40px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px {
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-bold-mischka-20px {
+  color: var(--mischka);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-regular-normal-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-tory-blue-20px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-60px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-bold-tory-blue-20px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px-2 {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-72px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-20px {
+  color: var(--blue-zodiac-4);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-48px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-18px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px-3 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-2 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-40px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-white-20px-2 {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-cerise-24px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-cerise-14px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-regular-normal-zircon-20px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.inter-medium-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-regular-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.abeezee-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.biryani-bold-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-biryani);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-normal-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.poppins-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-normal-fuscous-gray-24px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-normal-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-celeste-40px {
+  color: var(--celeste);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-celeste-21px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-regular-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-light-tory-blue-16px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather-light);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.merriweather-normal-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-regular-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-cerise-40px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-midnight-moss-12px {
+  color: var(--midnight-moss);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-normal-azure-radiance-20px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-tory-blue-24px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-60px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-azure-radiance-21px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-normal-zircon-20px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-celeste-21px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-celeste-18px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-16px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-15px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.materialicons-regular-normal-oslo-gray-24px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-material_icons-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-24px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px-2 {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.inter-medium-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-normal-nepal-15px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-black-21px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-21px {
+  color: var(--white-3);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.border-10px-azure-radiance {
+  border-width: 10px;
+  border-style: solid;
+  border-color: var(--azure-radiance);
+}
+.merriweather-bold-blue-zodiac-30px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-72px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-cerise-40px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-white-18px-2 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.biryani-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-biryani);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.border-1px-azure-radiance {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--azure-radiance);
+}
+.merriweather-light-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.poppins-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-bold-zircon-18px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-regular-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-celeste-18px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-16px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-14px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-celeste-40px {
+  color: var(--celeste);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-fuscous-gray-24px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-18px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-white-21px {
+  color: var(--white-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-biscay-20px {
+  color: var(--biscay);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-black-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-midnight-moss-12px {
+  color: var(--midnight-moss);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-white-40px {
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-cerise-14px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-white-72px-3 {
+  color: var(--white-3);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-14px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-40px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-white-40px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-2 {
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-20px {
+  color: var(--blue-zodiac-4);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-normal-pomegranate-18px {
+  color: var(--pomegranate);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-40px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.biryani-bold-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-biryani-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.agencyfb-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-agency_fb-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-regular-normal-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-3 {
+  color: var(--white-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-30px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-tory-blue-24px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.biryani-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-biryani-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-black-21px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-normal-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-regular-normal-white-24px {
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-pomegranate-18px {
+  color: var(--pomegranate);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-21px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  font-style: normal;
+}

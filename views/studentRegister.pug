@@ -1,0 +1,105 @@
+extend cohortLeadBase
+
+block content
+link(rel='stylesheet' href='/css/studentRegister.css')
+  form
+    .container
+      table
+        tbody
+          tr
+            th
+              h2 Student Registration
+            th
+              h2 Family Information
+          tr
+            td
+              label(for="fname") First name:
+              input#fname(type="text", name="fname", placeholder="Input", required)
+              br
+            td
+              label(for="fname") Father name:
+              input#fname(type="text", name="fname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="lname") Last name:
+              input#lname(type="text", name="lname", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") Mother name:
+              input#mname(type="text", name="mname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="dob") Date of Birth:
+              input#dob(type="date", name="dob", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") Father Occupation:
+              input#mname(type="text", name="mname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="lname") Goal:
+              input#lname(type="text", name="lname", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") Mother Occupation:
+              input#mname(type="text", name="mname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="lname") Gender:
+              input#male(type="radio", name="gender", value="male")
+              label(for="male") Male
+              input#female(type="radio", name="gender", value="female")
+              label(for="female") Female
+              br
+            td
+              label(for="Mname") Father Phone/Email:
+              input#mname(type="text", name="mname", placeholder="Input")
+              br
+          tr
+            td
+              label(for="lname") Languages Known:
+              input#vehicle1(type="checkbox", name="vehicle1", value="Bike")
+              label(for="vehicle1") Telugu
+              input#vehicle2(type="checkbox", name="vehicle2", value="Car")
+              label(for="vehicle2") Hindi
+              input#vehicle3(type="checkbox", name="vehicle3", value="Boat")
+              label(for="vehicle3") English
+              input#vehicle3(type="checkbox", name="vehicle3", value="Boat")
+              label(for="vehicle3") Other
+            td
+              label(for="Mname") Mother Phone/Email:
+              input#mname(type="text", name="mname", placeholder="Input")
+              br
+          tr
+            td
+              label(for="dob") Study:
+              input#dob(type="text", name="dob", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") No. of Siblings:
+              input#mname(type="number", name="mname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="dob") College:
+              input#dob(type="text", name="dob", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") Assign Mentor:
+              input#mname(type="text", name="mname", placeholder="Input", required)
+              br
+          tr
+            td
+              label(for="dob") Phone:
+              input#dob(type="number", name="dob", placeholder="Input", required)
+              br
+            td
+              label(for="Mname") Address:
+              input#mname(type="text", name="mname", placeholder="Input", required)
+              br
+      hr
+      button.registerbtn(type="submit") Register

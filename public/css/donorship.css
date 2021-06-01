@@ -1,0 +1,2835 @@
+.donorship {
+  background-color: var(--zircon-2);
+  height: 5729px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+.donorship .about-us {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 49px;
+}
+.donorship .benefits-you-get {
+  left: 95px;
+  letter-spacing: 3.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 852px;
+}
+.donorship .biemoji-smile {
+  height: 60px;
+  left: 96px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 159px;
+  width: 60px;
+}
+.donorship .bxbxs-donate-heart {
+  height: 381px;
+  left: 585px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 445px;
+}
+.donorship .codicontwitter {
+  height: 20px;
+  left: 150px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.donorship .contact {
+  background-color: var(--white2);
+  border-radius: 5px;
+  height: 25px;
+  left: 1028px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+.donorship .contact-us {
+  left: 12px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.donorship .csp {
+  left: 83px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -4px;
+}
+.donorship .donate-now {
+  left: 52px;
+  letter-spacing: 2.8px;
+  line-height: 27.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  white-space: nowrap;
+}
+.donorship .donors {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 148px;
+}
+.donorship .donors-1 {
+  left: 453px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donorship .double-your-impact {
+  left: 0;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1px;
+  white-space: nowrap;
+  width: 343px;
+}
+.donorship .ellipse-15 {
+  height: 1px;
+  left: 1185px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.donorship .ellipse-4 {
+  height: 52px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+.donorship .ellipse-4-1 {
+  height: 1px;
+  left: 34px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  width: 1px;
+}
+.donorship .ellipse-5 {
+  height: 58px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+.donorship .fa-soliddonate {
+  height: 22px;
+  left: 20px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 16px;
+  width: 22px;
+}
+.donorship .fluentpeople-co-nity-20-regular {
+  height: 60px;
+  left: 93px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 537px;
+  width: 60px;
+}
+.donorship .footer {
+  height: 233px;
+  left: 86px;
+  position: relative;
+  top: 276px;
+  width: 1271px;
+}
+.donorship .footer-1 {
+  height: 688px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1445px;
+}
+.donorship .frame-20 {
+  height: 25px;
+  left: 444px;
+  position: absolute;
+  top: 34px;
+  width: 527px;
+}
+.donorship .frame-37 {
+  height: 168px;
+  left: 565px;
+  position: absolute;
+  top: 65px;
+  width: 144px;
+}
+.donorship .frame-4 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 53px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 507px;
+  width: 219px;
+}
+.donorship .frame-5 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 53px;
+  left: 398px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 366px;
+  width: 219px;
+}
+.donorship .frame-79 {
+  height: 254px;
+  left: 0;
+  position: absolute;
+  top: 112px;
+  width: 1011px;
+}
+.donorship .group {
+  height: 17px;
+  left: 33px;
+  position: absolute;
+  top: 1px;
+  width: 27px;
+}
+.donorship .group-1 {
+  height: 71px;
+  left: 66px;
+  position: absolute;
+  top: 0;
+  width: 25px;
+}
+.donorship .group-2 {
+  height: 60px;
+  left: 447px;
+  position: absolute;
+  top: 157px;
+  width: 41px;
+}
+.donorship .group-3 {
+  height: 9px;
+  left: 30px;
+  position: absolute;
+  top: 49px;
+  width: 34px;
+}
+.donorship .group-383 {
+  height: 366px;
+  left: 82px;
+  position: absolute;
+  top: 0;
+  width: 1013px;
+}
+.donorship .group-387 {
+  height: 366px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1024px;
+}
+.donorship .group-387-1 {
+  height: 366px;
+  left: 146px;
+  position: absolute;
+  top: 2832px;
+  width: 1151px;
+}
+.donorship .group-396 {
+  height: 291px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  width: 665px;
+}
+.donorship .group-397 {
+  height: 419px;
+  left: 210px;
+  position: absolute;
+  top: 3280px;
+  width: 1020px;
+}
+.donorship .group-399 {
+  height: 397px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 481px;
+}
+.donorship .group-4 {
+  height: 71px;
+  left: 18px;
+  position: absolute;
+  top: 42px;
+  width: 92px;
+}
+.donorship .group-400 {
+  height: 397px;
+  left: 337px;
+  position: absolute;
+  top: 0;
+  width: 482px;
+}
+.donorship .group-401 {
+  height: 397px;
+  left: 662px;
+  position: absolute;
+  top: 0;
+  width: 507px;
+}
+.donorship .group-402 {
+  height: 237px;
+  left: 0;
+  position: absolute;
+  top: 133px;
+  width: 1059px;
+}
+.donorship .group-404 {
+  height: 381px;
+  left: 205px;
+  position: absolute;
+  top: 826px;
+  width: 1030px;
+}
+.donorship .group-407 {
+  height: 868px;
+  left: 200px;
+  position: absolute;
+  top: 1325px;
+  width: 1085px;
+}
+.donorship .group-409 {
+  height: 456px;
+  left: 202px;
+  position: absolute;
+  top: 4534px;
+  width: 1063px;
+}
+.donorship .group-409-1 {
+  height: 309px;
+  left: 0;
+  position: absolute;
+  top: 6px;
+  width: 309px;
+}
+.donorship .group-469 {
+  height: 268px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1068px;
+}
+.donorship .group-470 {
+  background-color: var(--white-22);
+  border-radius: 77.5px;
+  height: 155px;
+  left: 680px;
+  position: absolute;
+  top: 55px;
+  width: 155px;
+}
+.donorship .group-472 {
+  height: 268px;
+  left: 0;
+  position: absolute;
+  top: 104px;
+  width: 1060px;
+}
+.donorship .group-476 {
+  height: 372px;
+  left: 171px;
+  position: absolute;
+  top: 2315px;
+  width: 1098px;
+}
+.donorship .group-489 {
+  height: 20px;
+  left: 889px;
+  position: absolute;
+  top: 511px;
+  width: 170px;
+}
+.donorship .group-490 {
+  height: 688px;
+  left: -5px;
+  position: absolute;
+  top: 5092px;
+  width: 1445px;
+}
+.donorship .group-5 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/releases/60a643ba364c1639fc9855cf/img/vector-33@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 110px;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.donorship .group-513 {
+  height: 472px;
+  left: 275px;
+  position: absolute;
+  top: 3954px;
+  width: 892px;
+}
+.donorship .header {
+  height: 82px;
+  left: 90px;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+.donorship .header-1 {
+  height: 82px;
+  left: 98px;
+  position: absolute;
+  top: 1149px;
+  width: 1224px;
+}
+.donorship .hero {
+  height: 1816px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1658px;
+}
+.donorship .hero-section-content {
+  height: 688px;
+  left: 81px;
+  position: absolute;
+  top: 1034px;
+  width: 1572px;
+}
+.donorship .image-31 {
+  height: 1px;
+  left: 895px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.donorship .image-32 {
+  height: 1px;
+  left: 953px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7798px;
+  width: 1px;
+}
+.donorship .image-33 {
+  height: 1px;
+  left: 1069px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.donorship .image-34 {
+  height: 1px;
+  left: 1127px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.donorship .image-35 {
+  height: 1px;
+  left: 1011px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 7800px;
+  width: 1px;
+}
+.donorship .image-50 {
+  height: 313px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 368px;
+}
+.donorship .image-51 {
+  height: 313px;
+  left: 317px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 361px;
+}
+.donorship .image-52 {
+  height: 313px;
+  left: 649px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+.donorship .image-53 {
+  height: 313px;
+  left: 317px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 361px;
+}
+.donorship .image-54 {
+  height: 313px;
+  left: 649px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 361px;
+}
+.donorship .image-55 {
+  height: 313px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 224px;
+  width: 361px;
+}
+.donorship .login {
+  left: 16px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.donorship .login-1 {
+  background-color: var(--white2);
+  border-radius: 5px;
+  height: 25px;
+  left: 1175px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 76px;
+}
+.donorship .make-difference {
+  left: 26px;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 640px;
+  white-space: nowrap;
+  width: 296px;
+}
+.donorship .mdihandshake-outline {
+  height: 60px;
+  left: 801px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 161px;
+  width: 60px;
+}
+.donorship .mentorship {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 99px;
+}
+.donorship .mentorship-1 {
+  left: 282px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donorship .noto-v13rd-place-medal {
+  height: 60px;
+  left: 801px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 537px;
+  width: 60px;
+}
+.donorship .notoman-student {
+  height: 60px;
+  left: 431px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 537px;
+  width: 60px;
+}
+.donorship .number {
+  left: 374px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 161px;
+  white-space: nowrap;
+  width: 116px;
+}
+.donorship .number-1 {
+  left: 955px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 162px;
+  white-space: nowrap;
+  width: 107px;
+}
+.donorship .our-csr-donors {
+  left: 224px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 3819px;
+  white-space: nowrap;
+  width: 993px;
+}
+.donorship .our-donors {
+  left: 157px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 803px;
+}
+.donorship .overlap-group {
+  height: 1816px;
+  left: -10px;
+  position: absolute;
+  top: -1066px;
+  width: 1658px;
+}
+.donorship .overlap-group1 {
+  height: 1722px;
+  left: 9px;
+  position: absolute;
+  top: 10px;
+  width: 1653px;
+}
+.donorship .overlap-group1-1 {
+  height: 268px;
+  position: relative;
+  width: 1068px;
+}
+.donorship .overlap-group1-2 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/footer-background-1@1x.svg);
+  background-size: 100% 100%;
+  height: 637px;
+  left: 2px;
+  position: relative;
+  top: 26px;
+  width: 1440px;
+}
+.donorship .overlap-group1-3 {
+  height: 397px;
+  left: -43px;
+  position: relative;
+  top: -75px;
+  width: 1169px;
+}
+.donorship .overlap-group1-4 {
+  height: 306px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1022px;
+}
+.donorship .overlap-group1-5 {
+  height: 291px;
+  position: relative;
+  width: 667px;
+}
+.donorship .overlap-group2 {
+  height: 118px;
+  left: 19px;
+  position: relative;
+  top: 24px;
+  width: 117px;
+}
+.donorship .overlap-group2-1 {
+  height: 667px;
+  left: 0;
+  position: absolute;
+  top: 10px;
+  width: 1464px;
+}
+.donorship .overlap-group3 {
+  height: 381px;
+  position: relative;
+}
+.donorship .overlap-group3-1 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 60px;
+}
+.donorship .overlap-group4 {
+  height: 19px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 28px;
+}
+.donorship .overlap-group4-1 {
+  height: 42px;
+  left: 29px;
+  position: absolute;
+  top: 270px;
+  width: 578px;
+}
+.donorship .overlap-group5 {
+  height: 370px;
+  left: 0;
+  position: absolute;
+  top: 86px;
+  width: 1059px;
+}
+.donorship .overlap-group5-1 {
+  height: 73px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 26px;
+}
+.donorship .overlap-group6 {
+  height: 315px;
+  left: -15px;
+  position: absolute;
+  top: 0;
+  width: 523px;
+}
+.donorship .overlap-group6-1 {
+  height: 537px;
+  left: -55px;
+  position: relative;
+  top: -55px;
+  width: 1010px;
+}
+.donorship .overlap-group7 {
+  height: 372px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1098px;
+}
+.donorship .overlap-group8 {
+  height: 688px;
+  position: relative;
+}
+.donorship .place {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donorship .quick-links {
+  left: 565px;
+  letter-spacing: 4.77px;
+  line-height: 29.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  white-space: nowrap;
+  width: 187px;
+}
+.donorship .recognition {
+  left: 304px;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 274px;
+}
+.donorship .rectangle-392 {
+  height: 774px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 1055px;
+  width: 1440px;
+}
+.donorship .rectangle-4 {
+  height: 234px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 324px;
+}
+.donorship .rectangle-441 {
+  height: 268px;
+  left: 15px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 508px;
+}
+.donorship .rectangle-442 {
+  height: 268px;
+  left: 618px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 104px;
+  width: 480px;
+}
+.donorship .rectangle-5 {
+  height: 246px;
+  left: 653px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 358px;
+}
+.donorship .rectangle-6 {
+  height: 241px;
+  left: 364px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+.donorship .span0 {
+  letter-spacing: 0;
+}
+.donorship .span1 {
+  letter-spacing: 0.86px;
+}
+.donorship .span1-1 {
+  line-height: 33.3px;
+}
+.donorship .span2 {
+  letter-spacing: 0;
+  line-height: 26.4px;
+}
+.donorship .span2-1 {
+  line-height: 26.7px;
+}
+.donorship .students-activities {
+  left: 182px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 620px;
+}
+.donorship .subtract {
+  height: 667px;
+  left: 984px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+.donorship .support-us {
+  left: 192px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 620px;
+}
+.donorship .tax-breaks {
+  left: 763px;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 636px;
+  white-space: nowrap;
+}
+.donorship .text-1 {
+  left: 0;
+  letter-spacing: 3.36px;
+  line-height: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 434px;
+  white-space: nowrap;
+  width: 523px;
+}
+.donorship .text-10 {
+  left: 708px;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 709px;
+  width: 296px;
+}
+.donorship .text-11 {
+  left: 0;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 710px;
+  width: 296px;
+}
+.donorship .text-12 {
+  left: 340px;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 709px;
+  width: 296px;
+}
+.donorship .text-13 {
+  left: 714px;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 328px;
+  width: 296px;
+}
+.donorship .text-14 {
+  left: 2px;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1023px;
+}
+.donorship .text-15 {
+  left: 690px;
+  letter-spacing: 3.36px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 63px;
+  white-space: nowrap;
+  width: 347px;
+}
+.donorship .text-16 {
+  left: 212px;
+  letter-spacing: 3.36px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: right;
+  top: 59px;
+  white-space: nowrap;
+  width: 266px;
+}
+.donorship .text-17 {
+  left: 800px;
+  letter-spacing: 0;
+  line-height: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 5px;
+  width: 465px;
+}
+.donorship .text-18 {
+  left: 0;
+  line-height: 29.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 101px;
+  width: 481px;
+}
+.donorship .text-19 {
+  left: 70px;
+  letter-spacing: 0;
+  line-height: 39.6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 317px;
+}
+.donorship .text-2 {
+  left: 0;
+  letter-spacing: 2.88px;
+  line-height: 104px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 292px;
+  white-space: nowrap;
+  width: 1099px;
+}
+.donorship .text-3 {
+  left: 0;
+  letter-spacing: 3.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 667px;
+}
+.donorship .text-4 {
+  left: 0;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 77px;
+  width: 516px;
+}
+.donorship .text-5 {
+  left: 0;
+  letter-spacing: 1.05px;
+  line-height: 28.5px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 176px;
+  width: 1022px;
+}
+.donorship .text-6 {
+  left: 720px;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 260px;
+  white-space: nowrap;
+  width: 343px;
+}
+.donorship .text-7 {
+  left: 340px;
+  letter-spacing: 2.8px;
+  line-height: 47.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 640px;
+  white-space: nowrap;
+  width: 296px;
+}
+.donorship .text-8 {
+  left: 0;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 329px;
+  width: 296px;
+}
+.donorship .text-9 {
+  left: 354px;
+  letter-spacing: 1.89px;
+  line-height: 28.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 329px;
+  width: 296px;
+}
+.donorship .vector {
+  height: 20px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 53px;
+  width: 21px;
+}
+.donorship .vector-1 {
+  height: 23px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+.donorship .vector-10 {
+  height: 20px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+.donorship .vector-11 {
+  height: 8px;
+  left: 17px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+.donorship .vector-12 {
+  height: 74px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+  width: 111px;
+}
+.donorship .vector-13 {
+  height: 61px;
+  left: 11px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 15px;
+}
+.donorship .vector-14 {
+  height: 69px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 77px;
+}
+.donorship .vector-15 {
+  height: 43px;
+  left: 18px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 6px;
+  width: 59px;
+}
+.donorship .vector-16 {
+  height: 36px;
+  left: 47px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82px;
+  width: 20px;
+}
+.donorship .vector-17 {
+  height: 61px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 39px;
+  width: 77px;
+}
+.donorship .vector-18 {
+  height: 4px;
+  left: 42px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 61px;
+  width: 10px;
+}
+.donorship .vector-19 {
+  height: 15px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+.donorship .vector-2 {
+  height: 70px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 12px;
+  width: 56px;
+}
+.donorship .vector-20 {
+  height: 5px;
+  left: 25px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 10px;
+}
+.donorship .vector-21 {
+  height: 6px;
+  left: 37px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 68px;
+  width: 20px;
+}
+.donorship .vector-22 {
+  height: 19px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+.donorship .vector-23 {
+  height: 1px;
+  left: 13px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+.donorship .vector-24 {
+  height: 79px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 117px;
+}
+.donorship .vector-25 {
+  height: 17px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 55px;
+  width: 13px;
+}
+.donorship .vector-26 {
+  height: 29px;
+  left: 8px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 83px;
+  width: 79px;
+}
+.donorship .vector-27 {
+  height: 1px;
+  left: 15px;
+  position: absolute;
+  top: 9px;
+  width: 1px;
+}
+.donorship .vector-28 {
+  height: 10px;
+  left: 26px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 9px;
+}
+.donorship .vector-29 {
+  height: 36px;
+  left: 27px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 82px;
+  width: 21px;
+}
+.donorship .vector-3 {
+  height: 4px;
+  left: 16px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 84px;
+  width: 19px;
+}
+.donorship .vector-30 {
+  height: 54px;
+  left: 493px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 92px;
+  width: 54px;
+}
+.donorship .vector-31 {
+  height: 8px;
+  left: 19px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+.donorship .vector-32 {
+  height: 20px;
+  left: 70px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.donorship .vector-33 {
+  height: 19px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+.donorship .vector-4 {
+  height: 8px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+.donorship .vector-5 {
+  height: 10px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -1px;
+  width: 8px;
+}
+.donorship .vector-6 {
+  height: 17px;
+  left: 39px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 78px;
+  width: 17px;
+}
+.donorship .vector-7 {
+  height: 26px;
+  left: 41px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 92px;
+  width: 13px;
+}
+.donorship .vector-8 {
+  height: 8px;
+  left: 2px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 9px;
+}
+.donorship .vector-9 {
+  height: 20px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.donorship .view-more {
+  left: 776px;
+  letter-spacing: 1.89px;
+  line-height: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  text-decoration: underline;
+  top: 492px;
+  white-space: nowrap;
+  width: 171px;
+}
+.donorship .view-more-1 {
+  left: 428px;
+  letter-spacing: 1.89px;
+  line-height: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: justify;
+  text-decoration: underline;
+  top: 271px;
+  white-space: nowrap;
+  width: 455px;
+}
+.donorship .what-our-donors-say {
+  left: 223px;
+  letter-spacing: 5.6px;
+  line-height: 55.4px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  white-space: nowrap;
+  width: 615px;
+}
+.donorship .who-we-are {
+  left: 113px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donorship .x {
+  height: 29px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 220px;
+  width: 25px;
+}
+.donorship .x-1 {
+  height: 29px;
+  left: 1117px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 217px;
+  width: 25px;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900|Lato:400,700,900|Poppins:400,700");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+:root {
+  --black-2: rgba(0, 0, 0, 0.6);
+  --black: rgba(0, 0, 0, 0.698);
+  --black: rgba(0, 0, 0, 0.871);
+  --black-4: rgba(0, 0, 0, 1);
+  --azure-radiance-2: rgba(0, 136, 240, 0.102);
+  --azure-radiance-2: rgba(0, 136, 240, 0.502);
+  --azure-radiance: rgba(0, 136, 240, 1);
+  --midnight-moss: rgba(5, 5, 5, 1);
+  --tory-blue: rgba(14, 73, 161, 1);
+  --dodger-blue: rgba(22, 146, 241, 1);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.2);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.502);
+  --blue-zodiac-3: rgba(23, 38, 85, 0.698);
+  --blue-zodiac: rgba(23, 38, 85, 1);
+  --blue-zodiac-2: rgba(23, 39, 85, 0.8);
+  --blue-zodiac-4: rgba(23, 39, 85, 0.871);
+  --biscay: rgba(26, 47, 109, 1);
+  --fuscous-gray: rgba(85, 85, 85, 1);
+  --oslo-gray: rgba(127, 140, 141, 1);
+  --nepal: rgba(143, 155, 191, 1);
+  --mist-gray: rgba(196, 196, 196, 1);
+  --celeste: rgba(204, 204, 204, 1);
+  --mischka: rgba(209, 212, 221, 1);
+  --pomegranate: rgba(238, 69, 23, 1);
+  --cerise-3: rgba(239, 42, 130, 0.298);
+  --cerise-2: rgba(239, 42, 130, 0.8);
+  --cerise: rgba(239, 42, 130, 1);
+  --zircon: rgba(248, 249, 255, 0.8);
+  --zircon-2: rgba(248, 249, 255, 1);
+  --alabaster: rgba(250, 250, 250, 0.502);
+  --white-3: rgba(255, 255, 255, 0.502);
+  --white-2: rgba(255, 255, 255, 0.8);
+  --white: rgba(255, 255, 255, 1);
+
+  --font-size-xxxxxxs: 10px;
+  --font-size-xxxxs: 14px;
+  --font-size-xs: 18px;
+  --font-size-m: 12px;
+  --font-size-m: 21px;
+  --font-size-l: 15px;
+  --font-size-l: 24px;
+  --font-size-xl: 16px;
+  --font-size-xl: 25px;
+  --font-size-xl: 40px;
+  --font-size-xxl: 20px;
+  --font-size-xxl: 30px;
+  --font-size-xxxl: 36px;
+  --font-size-xxxl: 72px;
+  --font-size-xxxxxl: 48px;
+  --font-size-xxxxxxl: 50px;
+  --font-size-xxxxxxxl: 60px;
+
+  --font-family-abeezee: "ABeeZee";
+  --font-family-abeezee-regular: "ABeeZee-Regular";
+  --font-family-agency_fb-regular: "Agency FB-Regular";
+  --font-family-biryani: "Biryani";
+  --font-family-biryani-bold: "Biryani-Bold";
+  --font-family-biryani-regular: "Biryani-Regular";
+  --font-family-inter: "Inter";
+  --font-family-inter-medium: "Inter-Medium";
+  --font-family-lato: "Lato";
+  --font-family-lato-black: "Lato-Black";
+  --font-family-lato-bold: "Lato-Bold";
+  --font-family-lato-regular: "Lato-Regular";
+  --font-family-material_icons-regular: "Material Icons-Regular";
+  --font-family-merriweather: "Merriweather";
+  --font-family-merriweather-black: "Merriweather-Black";
+  --font-family-merriweather-bold: "Merriweather-Bold";
+  --font-family-merriweather-light: "Merriweather-Light";
+  --font-family-merriweather-regular: "Merriweather-Regular";
+  --font-family-poppins: "Poppins";
+  --font-family-poppins-bold: "Poppins-Bold";
+  --font-family-poppins-medium: "Poppins-Medium";
+  --font-family-poppins-regular: "Poppins-Regular";
+  --font-family-roboto: "Roboto";
+  --font-family-roboto-medium: "Roboto-Medium";
+  --font-family-roboto-regular: "Roboto-Regular";
+}
+.merriweather-normal-white-18px {
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-white-24px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-azure-radiance-21px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-14px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-24px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.poppins-regular-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-light-tory-blue-16px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-white-18px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-18px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-white-24px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-light-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-light);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.merriweather-black-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-18px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.abeezee-regular-normal-azure-radiance-20px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-zircon-40px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px {
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-bold-mischka-20px {
+  color: var(--mischka);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-regular-normal-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-tory-blue-20px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-60px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-bold-tory-blue-20px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px-2 {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-72px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-20px {
+  color: var(--blue-zodiac-4);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-48px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-18px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px-3 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-2 {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-40px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-white-20px-2 {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-cerise-24px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-cerise-14px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-regular-normal-zircon-20px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins-regular);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-18px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.inter-medium-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-40px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-regular-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.abeezee-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.biryani-bold-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-biryani);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-normal-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.poppins-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-normal-fuscous-gray-24px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-normal-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-celeste-40px {
+  color: var(--celeste);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-celeste-21px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-regular-normal-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-abeezee-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-light-tory-blue-16px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather-light);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.merriweather-normal-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-regular-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-medium-white-18px {
+  color: var(--white);
+  font-family: var(--font-family-poppins-medium);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-cerise-40px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-midnight-moss-12px {
+  color: var(--midnight-moss);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.abeezee-normal-azure-radiance-20px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-abeezee);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-tory-blue-24px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-60px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxxxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-azure-radiance-21px {
+  color: var(--azure-radiance-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-normal-zircon-20px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-normal-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-celeste-21px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-celeste-18px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-24px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-zircon-16px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-15px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.materialicons-regular-normal-oslo-gray-24px {
+  color: var(--oslo-gray);
+  font-family: var(--font-family-material_icons-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-24px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px-2 {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.inter-medium-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-inter-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-normal-nepal-15px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-black-21px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-21px {
+  color: var(--white-3);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-normal-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.border-10px-azure-radiance {
+  border-width: 10px;
+  border-style: solid;
+  border-color: var(--azure-radiance);
+}
+.merriweather-bold-blue-zodiac-30px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-18px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-72px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-cerise-40px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-white-16px {
+  color: var(--white-2);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-white-18px-2 {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.biryani-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-biryani);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.border-1px-azure-radiance {
+  border-width: 1px;
+  border-style: solid;
+  border-color: var(--azure-radiance);
+}
+.merriweather-light-blue-zodiac-16px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-style: normal;
+}
+.poppins-bold-white-14px {
+  color: var(--white);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-bold-zircon-18px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-regular-normal-black-14px {
+  color: var(--black-2);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-black-celeste-18px {
+  color: var(--celeste);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-zircon-16px {
+  color: var(--zircon);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-14px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-celeste-40px {
+  color: var(--celeste);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-fuscous-gray-24px {
+  color: var(--fuscous-gray);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-18px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-20px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-white-21px {
+  color: var(--white-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-bold-biscay-20px {
+  color: var(--biscay);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.lato-black-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-18px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-midnight-moss-12px {
+  color: var(--midnight-moss);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-white-40px {
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.poppins-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-poppins-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-cerise-14px {
+  color: var(--cerise);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-white-72px-3 {
+  color: var(--white-3);
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-14px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-nepal-24px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-regular-normal-blue-zodiac-21px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-bold-cerise-20px {
+  color: var(--cerise-2);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-24px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-40px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-white-40px {
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-azure-radiance-18px {
+  color: var(--azure-radiance);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.roboto-regular-normal-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-2 {
+  font-family: var(--font-family-lato-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-20px {
+  color: var(--blue-zodiac-4);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.merriweather-normal-pomegranate-18px {
+  color: var(--pomegranate);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato-black);
+  font-size: var(--font-size-m);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-18px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xs);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-black-white-72px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-black);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.lato-bold-zircon-72px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-zircon-40px {
+  color: var(--zircon-2);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xl);
+  font-weight: 900;
+  font-style: normal;
+}
+.roboto-normal-blue-zodiac-12px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-medium-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  font-style: normal;
+}
+.biryani-bold-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-biryani-bold);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.agencyfb-regular-normal-white-25px {
+  color: var(--white);
+  font-family: var(--font-family-agency_fb-regular);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-regular-normal-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-bold-white-72px-3 {
+  color: var(--white-3);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-blue-zodiac-30px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-tory-blue-24px {
+  color: var(--tory-blue);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-bold-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-merriweather-bold);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.merriweather-black-nepal-14px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxxxs);
+  font-weight: 900;
+  font-style: normal;
+}
+.biryani-regular-normal-white-36px {
+  color: var(--white);
+  font-family: var(--font-family-biryani-regular);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-black-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-xxxl);
+  font-weight: 900;
+  font-style: normal;
+}
+.merriweather-normal-black-21px {
+  color: var(--black);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.lato-normal-nepal-21px {
+  color: var(--nepal);
+  font-family: var(--font-family-lato);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.roboto-regular-normal-white-24px {
+  font-family: var(--font-family-roboto-regular);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-pomegranate-18px {
+  color: var(--pomegranate);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-regular-normal-nepal-12px {
+  color: var(--nepal);
+  font-family: var(--font-family-merriweather-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.merriweather-normal-blue-zodiac-21px-2 {
+  color: var(--blue-zodiac-3);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.poppins-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.roboto-medium-blue-zodiac-36px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-roboto-medium);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  font-style: normal;
+}

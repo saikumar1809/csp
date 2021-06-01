@@ -1,0 +1,499 @@
+.donor-registration {
+  background-color: var(--zircon-2);
+  height: 1024px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  width: 1440px;
+}
+.donor-registration .brandicofacebook {
+  height: 41px;
+  left: 38px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+.donor-registration .bxbx-arrow-back {
+  height: 17px;
+  left: 17px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 38px;
+  width: 22px;
+}
+.donor-registration .bxbxs-user {
+  height: 21px;
+  left: 83px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 54px;
+  width: 21px;
+}
+.donor-registration .carbonpassword {
+  height: 17px;
+  left: 30px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 16px;
+}
+.donor-registration .conform-password {
+  left: 76px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 22px;
+  width: 195px;
+}
+.donor-registration .contact {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 5px 5px 60px #1727551a;
+  height: 25px;
+  left: 1028px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 108px;
+}
+.donor-registration .contact-us {
+  left: 12px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.donor-registration .donors {
+  left: 453px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donor-registration .ellipse-4 {
+  height: 52px;
+  left: 0;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  position: absolute;
+  top: 20px;
+  width: 68px;
+}
+.donor-registration .email {
+  left: 76px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+  width: 112px;
+}
+.donor-registration .evaemail-fill {
+  height: 21px;
+  left: 29px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 21px;
+}
+.donor-registration .facebook {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-merriweather);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  left: 69px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 21px;
+  white-space: nowrap;
+  width: 125px;
+}
+.donor-registration .frame-20 {
+  height: 25px;
+  left: 444px;
+  position: absolute;
+  top: 34px;
+  width: 527px;
+}
+.donor-registration .full-name {
+  left: 76px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 21px;
+  width: 112px;
+}
+.donor-registration .google {
+  left: 80px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 105px;
+}
+.donor-registration .group {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+.donor-registration .group-234 {
+  height: 681px;
+  left: 1054px;
+  position: absolute;
+  top: 194px;
+  width: 565px;
+}
+.donor-registration .header {
+  height: 82px;
+  left: 298px;
+  position: absolute;
+  top: 4px;
+  width: 1224px;
+}
+.donor-registration .login {
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 5px 5px 60px #1727551a;
+  height: 25px;
+  left: 1175px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 36px;
+  width: 76px;
+}
+.donor-registration .login-1 {
+  left: 16px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 2px;
+}
+.donor-registration .mentorship {
+  left: 282px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donor-registration .or {
+  left: 257px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 95px;
+  white-space: nowrap;
+  width: 71px;
+}
+.donor-registration .overlap-group {
+  height: 1024px;
+  left: -216px;
+  position: relative;
+  top: -4px;
+  width: 1619px;
+}
+.donor-registration .overlap-group1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/rectangle-27@1x.svg);
+  background-size: 100% 100%;
+  height: 689px;
+  left: -6px;
+  position: relative;
+  top: -4px;
+  width: 555px;
+}
+.donor-registration .overlap-group10 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-6@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 1px;
+  position: relative;
+  width: 15px;
+}
+.donor-registration .overlap-group10-1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-4@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  position: relative;
+  top: 1px;
+}
+.donor-registration .overlap-group11 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/ellipse-2-1@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: -1px;
+  position: relative;
+  width: 24px;
+}
+.donor-registration .overlap-group2 {
+  height: 58px;
+  left: 90px;
+  position: absolute;
+  top: 17px;
+  width: 197px;
+}
+.donor-registration .overlap-group3 {
+  height: 71px;
+  left: 297px;
+  position: absolute;
+  top: 15px;
+  width: 198px;
+}
+.donor-registration .overlap-group4 {
+  height: 51px;
+  left: 82px;
+  position: absolute;
+  top: 227px;
+  width: 427px;
+}
+.donor-registration .overlap-group5 {
+  height: 51px;
+  left: 82px;
+  position: absolute;
+  top: 375px;
+  width: 427px;
+}
+.donor-registration .overlap-group6 {
+  height: 51px;
+  left: 83px;
+  position: absolute;
+  top: 303px;
+  width: 427px;
+}
+.donor-registration .overlap-group7 {
+  height: 58px;
+  left: 80px;
+  position: absolute;
+  top: 535px;
+  width: 438px;
+}
+.donor-registration .overlap-group8 {
+  height: 51px;
+  left: 84px;
+  position: absolute;
+  top: 145px;
+  width: 427px;
+}
+.donor-registration .overlap-group9 {
+  height: 51px;
+  left: 80px;
+  position: absolute;
+  top: 453px;
+  width: 427px;
+}
+.donor-registration .password {
+  left: 76px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 112px;
+}
+.donor-registration .phone-number {
+  left: 75px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 21px;
+  width: 170px;
+}
+.donor-registration .place {
+  left: 183px;
+  letter-spacing: 3.40px;
+  line-height: 28.7px;
+  mix-blend-mode: normal;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  white-space: nowrap;
+  width: 111px;
+}
+.donor-registration .place-1 {
+  left: 0;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+.donor-registration .rectangle- {
+  background-color: var(--white);
+  border-radius: 17px;
+  box-shadow: 5px 4px 13px #ff000040;
+  height: 51px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 427px;
+}
+.donor-registration .rectangle-27 {
+  background-color: var(--cerise);
+  border-radius: 10px;
+  height: 58px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 438px;
+}
+.donor-registration .rectangle-28 {
+  background-color: var(--white);
+  border-radius: 17px;
+  box-shadow: 5px 4px 13px #c6000040;
+  height: 51px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 427px;
+}
+.donor-registration .rectangle-37 {
+  background-color: var(--blue-zodiac);
+  border-radius: 20px;
+  height: 58px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 197px;
+}
+.donor-registration .rectangle-38 {
+  height: 60px;
+  left: 6px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 4px;
+  width: 198px;
+}
+.donor-registration .rectangle-421 {
+  height: 1px;
+  left: 1410px;
+  position: absolute;
+  top: 654px;
+  width: 1px;
+}
+.donor-registration .si-glyphphone-number {
+  height: 17px;
+  left: 30px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  position: absolute;
+  top: 21px;
+  width: 17px;
+}
+.donor-registration .title {
+  left: 83px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: -4px;
+}
+.donor-registration .undraw-loginre4vu2-1 {
+  height: 576px;
+  left: 197px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 317px;
+  width: 735px;
+}
+.donor-registration .vector {
+  height: 3px;
+  left: 10px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+.donor-registration .vector-1 {
+  height: 18px;
+  left: 33px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 18px;
+  width: 16px;
+}
+.donor-registration .vector-2 {
+  height: 15px;
+  left: 1px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 19px;
+}
+.donor-registration .vector-3 {
+  height: 1024px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 1232px;
+}
+.donor-registration .vector-4 {
+  height: 3px;
+  left: 9px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 3px;
+}
+.donor-registration .vector-5 {
+  height: 39px;
+  left: 20px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 13px;
+  width: 60px;
+}
+.donor-registration .vector-6 {
+  height: 42px;
+  left: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+.donor-registration .vector-7 {
+  height: 12px;
+  left: 3px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 3px;
+  width: 18px;
+}
+.donor-registration .who-we-are {
+  left: 113px;
+  letter-spacing: 0;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 0;
+}
+
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900");
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+
+

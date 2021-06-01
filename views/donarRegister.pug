@@ -1,0 +1,109 @@
+extend base
+
+block content
+
+  .container-center-horizontal
+    .donor-registration.screen
+      .overlap-group
+        link(href="/css/donor-reg.css", rel="stylesheet")
+        img.vector-3(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-3-1@1x.svg")
+        img.rectangle-421(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/releases/60a64084364c1639fc9855b5/img/rectangle-421@1x.png")
+        img.undraw-loginre4vu2-1(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/undraw-login-re-4vu2-1-1@1x.svg")
+        .group-234
+          .overlap-group1
+            .overlap-group8
+              .rectangle-28
+              .full-name.merriweather-normal-white-18px
+                input#name.span.merriweather-normal-nepal-18px(type="text", placeholder="Full name", name="uname", required)
+                span.span.merriweather-normal-pomegranate-18px *
+              img.vector-1(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-5@2x.svg")
+            .overlap-group4
+              .rectangle-
+              .email.merriweather-normal-white-18px
+                // <span class="span merriweather-normal-nepal-18px">Email </span>
+                input.span.merriweather-normal-nepal-18px#email(type="text", placeholder="Email", name="email", required)
+                span.span.merriweather-normal-pomegranate-18px *
+              .evaemail-fill
+                img.vector-2(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-2@2x.svg")
+            .overlap-group6
+              .rectangle-
+              //  <div class="phone-number merriweather-normal-nepal-18px">phone number</div>
+              input.phone-number.merriweather-normal-nepal-18px#phone(type="text", placeholder="Phone number", name="Phone", required)
+              .si-glyphphone-number
+                img.group(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/group@2x.svg")
+            .overlap-group5
+              .rectangle-
+              // <div class="password merriweather-normal-nepal-18px">password</div>
+              input#password.password.merriweather-normal-nepal-18px(type="password", placeholder="Enter Password", name="psw", required)
+              .carbonpassword
+                .overlap-group10-1
+                  img.vector(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-5@2x.svg")
+            .overlap-group9
+              .rectangle-
+              // <div class="conform-password merriweather-normal-nepal-18px">conform password</div>
+              input#conformPassword.conform-password.merriweather-normal-nepal-18px(type="password", placeholder="Confirm Password", name="psw", required)
+              .carbonpassword
+                .overlap-group10
+                  img.vector-4(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-7@2x.svg")
+            .overlap-group7
+              .rectangle-27
+              .place.merriweather-bold-white-20px 
+              button#register.place.merriweather-bold-white-20px.registerBtn(type="button", style="color:#FFFFFF; background-color:#EF2A82; width:137px;height:40px") Register
+            .overlap-group2
+              .rectangle-37
+              button.google.merriweather-bold-white-20px(type="button", style="background-color:#172755; color:#F8F9FF")
+                b google
+              //
+                 <img
+                              class="vector-5"
+                              src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-1@2x.svg"
+                            />
+            .overlap-group3
+              //
+                <img
+                              class="rectangle-38"
+                              src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/rectangle-38@2x.svg"
+                            />
+              .bxbxs-user
+              .brandicofacebook
+                //
+                  <img
+                                  class="vector-6"
+                                  src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-8@2x.svg"
+                                />
+              button.facebook(type="button", style="background-color:#EF2A82; color:#F8F9FF") Facebook
+            .or.merriweather-bold-white-20px or
+            .bxbx-arrow-back
+              .overlap-group11
+                //
+                  <img
+                                  class="vector-7"
+                                  src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/img/vector-9@2x.svg"
+                                />
+        .header
+          img.ellipse-4(src="https://anima-uploads.s3.amazonaws.com/projects/60a63e93364c1639fc9855aa/releases/60a64084364c1639fc9855b5/img/ellipse-4@2x.png")
+          h1.title.merriweather-black-white-72px csp
+          .frame-20
+            a(href="/homepage")
+              .place-1.merriweather-bold-cerise-20px(style="color:#EF2A82")
+                b Home
+            a(href="/aboutUs")
+              .who-we-are.merriweather-bold-blue-zodiac-20px(style="color:#172755")
+                b Who we are
+            a(href="/mentorship")
+              .mentorship.merriweather-bold-blue-zodiac-20px(style="color:#172755")
+                b Mentorship
+            a(href="/donorship")
+              .donors.merriweather-bold-blue-zodiac-20px(style="color:#172755")
+                b Donors
+            //
+               <div class="who-we-are merriweather-bold-blue-zodiac-20px">Who we are</div>
+                        <div class="mentorship merriweather-bold-blue-zodiac-20px">Mentorship</div>
+                        <div class="donors merriweather-bold-blue-zodiac-20px">Donors</div>
+          // <div class="contact"><div class="contact-us merriweather-light-blue-zodiac-16px">Contact us</div></div>
+          .contact
+            button.contact-us.merriweather-light-blue-zodiac-16px(type="button", style="color:#172755; background-color:#F8F9FF; width:86px;height:25px") Contact us
+          .login
+            .login-1.merriweather-light-blue-zodiac-16px Login
+          .login
+            button.login-1.merriweather-light-blue-zodiac-16px(type="button", style="color:#172755; background-color:#F8F9FF; width:76px;height:25px") Login
